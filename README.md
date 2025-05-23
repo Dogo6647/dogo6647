@@ -2,7 +2,7 @@
 ## !-->
 
 ## ![htlabs logo](https://github.com/Dogo6647/dogo6647/blob/main/htlogo-white.png?raw=true)
-just a random kid passionate about tech, cs, and modding things<br>
+just a random kid passionate about tech, web development, and modding things<br>
 here are the few things i know how to use properly (there may or may not be more):
 <br><br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
